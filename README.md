@@ -1,6 +1,6 @@
 # Big_Data_Analytics
 
-This repository covers all course materials of University of Pennsylvania CIS 545 Big Data Analytics.
+This repository covers all project materials of University of Pennsylvania CIS 545 Big Data Analytics.
 
 **Project 1 - Data Wrangling.ipynb**: use Pandas for data manipulation and analysis.
 
