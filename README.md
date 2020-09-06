@@ -4,7 +4,7 @@ This repository covers all course materials of University of Pennsylvania CIS 54
 
 **Project 1 - Data Wrangling.ipynb**: use Pandas for data manipulation and analysis.
 
-**Project 2 - Database Manipulation.ipynb**: use pandasql and spark for dataframes, graph data and traversing relationships.
+**Project 2 - Database Manipulation.ipynb**: use pandasql and spark for graph data and traversing relationships.
 
 **Project 3 - Spark SQL.ipynb**: use Spark with an EMR cluster to manipulate LinkedIn and stock data.
 
