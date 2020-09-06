@@ -6,7 +6,7 @@ This repository covers all course materials of University of Pennsylvania CIS 54
 
 **Project 2 - Database Manipulation.ipynb**: use pandasql and spark for dataframes, graph data and traversing relationships.
 
-**Project 3 - Spark SQL.ipynb**: use Spark with an EMR cluster to manipulate the linkedin_small_real.json and the stocks.csv.
+**Project 3 - Spark SQL.ipynb**: use Spark with an EMR cluster to manipulate LinkedIn and stock data.
 
 **Project 4 - Machine Leaning.ipynb**: use sklearn for machine learning and Spark ML for scalable machine learning.
 
