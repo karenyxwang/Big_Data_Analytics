@@ -2,12 +2,12 @@
 
 This repository covers all course materials of University of Pennsylvania CIS 545 Big Data Analytics.
 
-**Data Wrangling and Cleaning.ipynb**: use Pandas for data manipulation and analysis.
+**Project 1 - Data Wrangling.ipynb**: use Pandas for data manipulation and analysis.
 
-**pandasql and spark.ipynb**: use pandasql and spark for dataframes, graph data and traversing relationships.
+**Project 2 - Database Manipulation.ipynb**: use pandasql and spark for dataframes, graph data and traversing relationships.
 
-**Spark SQL.ipynb**: use Spark with an EMR cluster to manipulate the linkedin_small_real.json and the stocks.csv.
+**Project 3 - Spark SQL.ipynb**: use Spark with an EMR cluster to manipulate the linkedin_small_real.json and the stocks.csv.
 
-**Machine Leaning.ipynb**: use sklearn for machine learning and Spark ML for scalable machine learning.
+**Project 4 - Machine Leaning.ipynb**: use sklearn for machine learning and Spark ML for scalable machine learning.
 
-**Deep Learning with MXNet.ipynb**: use MxNet to build neural networks for image recognition. 
+**Project 5 - Deep Learning.ipynb**: use MxNet to build neural networks for image recognition. 
